@@ -5,7 +5,7 @@
 ## 运行方式
 
 ```
-python game.py
+java game.java
 ```
 
 ## 核心规则
